@@ -1,4 +1,4 @@
-CREATE TABLE lti2_cosnumer (
+CREATE TABLE lti2_consumer (
   consumer_pk INTEGER PRIMARY KEY AUTOINCREMENT,
   name TEXT NOT NULL,
   consumer_key TEXT DEFAULT NULL,
